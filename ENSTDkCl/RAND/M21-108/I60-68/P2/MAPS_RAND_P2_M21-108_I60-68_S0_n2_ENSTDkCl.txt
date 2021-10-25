@@ -1,0 +1,3 @@
+OnsetTime	OffsetTime	MidiPitch
+0.521985	1.212	48
+0.521985	1.21499	50
